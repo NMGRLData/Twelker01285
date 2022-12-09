@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00022472199501547628,
+        "error": 0.00041213544021951356,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 340,
         "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.02059240952160825
+        "value": 0.021322132530104072
     },
     "Ar37": {
         "error": 0.016605259335424956,
@@ -38,7 +38,7 @@
         "value": 1.2476270092198591
     },
     "Ar38": {
-        "error": 0.005521815982704419,
+        "error": 0.005521815982704421,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -57,10 +57,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.1750946033809973
+        "value": 0.17509460338099722
     },
     "Ar39": {
-        "error": 0.007965559385161946,
+        "error": 0.014677563290578965,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -69,7 +69,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -78,10 +78,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.8163578481484746
+        "value": 1.8014279743874626
     },
     "Ar40": {
-        "error": 0.030552678557432416,
+        "error": 0.030552678557433585,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -99,6 +99,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 26.042925621842148
+        "value": 26.042925621842137
     }
 }
